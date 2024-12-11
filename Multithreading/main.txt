@@ -1,0 +1,7 @@
+what is concurrency. and how is different from parallism.
+
+c oncurrency generly means doing multtiple things at once, order matters and most important thing is they shared resources
+parallism does not shared resource and dont depend to each other
+
+for example two row of people using one coffee machine = concurrency
+tow row and two coffee machine = paralism
